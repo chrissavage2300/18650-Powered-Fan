@@ -5,7 +5,9 @@ This project was created for the sole purpose of cooling down oatmeal or other t
 
 Features a charging IC and boost converter. Four LEDs show either power,charging,done or low battery. Has a PTC fuse to protect
 the battery from overcharging. 
+
 Run time (2000mAh Battery):20 Hours
+
 BOM link: http://www.digikey.com/short/jm2fbp
 
 
